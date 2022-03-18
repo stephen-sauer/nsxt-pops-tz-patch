@@ -28,9 +28,9 @@ For the UI Version of NSX-T PowerOps, please go to: https://github.com/vmware/ns
 
        Default Username / Password:  powerops/powerops
 
-3. Git clone the NSX-T-PowerOps repo:
+3. Git clone the NSX-T-PowerOps TZ Patch repo:
        
-       git clone https://github.com/vmware/nsx-powerops.git
+       git clone https://github.com/stephen-sauer/nsxt-pops-tz-patch.git
 
 4. Modify the config.yml with all the relevant information (NSX IP or FQDN, cert path, output folder for XLS files)
 
