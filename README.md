@@ -4,7 +4,7 @@ Clone of the NSX-T PowerOps CLI - Used for Patch testing
 To run NSX-T PowerOps:
 
 1. From /home/powerops git clone the repo (following will clone the master branch of NSX-T PowerOps):
-    * `git clone https://github.com/vmware/nsx-powerops.git`
+    * `git clone https://github.com/stephen-sauer/nsxt-pops-tz-patch`
 
 2. Modify the config.yml with all the relevant information (NSX IP or FQDN, cert path, output folder for XLS files)
     
