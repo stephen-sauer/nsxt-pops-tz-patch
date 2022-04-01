@@ -1,6 +1,6 @@
 Clone of the NSX-T PowerOps CLI - Used for Patch testing
 
-Not an April's Fool: Udocs_logical_switches.py updated to take into account an issue related to "replication-mode" when hitting a VLAN LS/Segment. 
+Not an April's Fool: docs_logical_switches.py updated to take into account an issue related to "replication-mode" when hitting a VLAN LS/Segment. 
 
 
 ### Build & Run
